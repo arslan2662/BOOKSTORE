@@ -49,7 +49,7 @@ export default function Footer() {
     </div>
   </nav>
   <aside>
-    <p>Copyright © {new Date().getFullYear()} - All right reserved by ACME Industries Ltd</p>
+    <p>Copyright © {new Date().getFullYear()} - All right reserved by Aslan BookStore Ltd</p>
   </aside>
 </footer>
     </div>
